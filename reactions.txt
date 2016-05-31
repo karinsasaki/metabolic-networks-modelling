@@ -1,0 +1,38 @@
+R1 = model.reactions[1223] # oxygen uptake
+    R2 = model.reactions[1222] # amonium uptake
+    R3 = model.reactions[1176] # sulphate uptake
+    R4 = model.reactions[1189] # phasphate uptake
+    R5 = model.reactions[1260] # glucose uptake
+    
+    R6 = model.reactions[1223] # L-alanine uptake
+    R7 = model.reactions[1222] # L-arginine uptake
+    R8 = model.reactions[1220] # L-aspartate uptake
+    R9 = model.reactions[1219] # L-cysteine uptake
+    R10 = model.reactions[1217] # L-glutamate uptake
+    R11 = model.reactions[1229] # glycine uptake
+    R12 = model.reactions[1215] # L-histidine uptake
+    R13 = model.reactions[1214] # L-isoleucine uptake
+    R14 = model.reactions[1213] # L-leucine uptake
+    R15 = model.reactions[1212] # lysine uptake
+    R16 = model.reactions[1211] # methionine uptake
+    R17 = model.reactions[1209] # L-phenylalanine uptake
+    R18 = model.reactions[1208] # L-proline uptake
+    R19 = model.reactions[1207] # L-serine uptake
+    R20 = model.reactions[1206] # L-threonine  uptake
+    R21 = model.reactions[1205] # L-tryptophan uptake
+    R22 = model.reactions[1204] # L-tyrosine uptake
+    R23 = model.reactions[1203] # L-valine uptake
+    
+    R24 = model.reactions[1187] # potassium uptake
+    R25 = model.reactions[1182] # sodium uptake
+    R26 = model.reactions[1256] # biotin uptake
+    R27 = model.reactions[1255] # chlorine uptake
+    R28 = model.reactions[1185] # raboflavin uptake
+    R29 = model.reactions[1175] # thiamine uptake
+    R30 = model.reactions[1198] # myo-inositol uptake
+    R31 = model.reactions[1174] # thymidine uptake
+    R32 = model.reactions[1271] # (R)-panthotenate uptake
+    R33 = model.reactions[1172] # uracyl uptake
+    
+    R34 = model.reactions[1236] # ergosterol uptake
+    R35 = model.reactions[1168] # zymosterol uptake
