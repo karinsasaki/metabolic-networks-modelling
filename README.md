@@ -14,6 +14,17 @@ The ‘EBI_COBRApy_exercises.ipnb’ is the main tutorial, which consists of exp
 This course is aimed at people with basic to intermediate knowledge of python and knowledge of basic linear algebra (array manipulation).
 
 
+## Required tools
+
+Python2.7 (We recommend using the [Anaconda distribution](https://www.continuum.io/downloads) of Python. It's free and comes with a large number of additional modules included ready for importing into your scripts, IPython shell and notebook interfaces, a powerful Python text editor (Spyder), and a good package manager, conda, for updating and installing packages.)
+
+[COBRApy](https://github.com/opencobra/cobrapy)
+
+[Jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html)
+
+
+
+
 ## Instructions on following this course
 
 - This tutorial is organised as an iPython Notebook.
